@@ -7,8 +7,7 @@ We plan to add additional material at the intermediate level that is geared towa
 
 # Getting started
 
-You can click this [[https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-physics%2FPython-Tutorials&urlpath=tree%2FPython-Tutorials%2FIntroductory&branch=master
-][link]] to launch into the datahub where the notebooks can be read and run interactively. Alternatively, if you don't have a Berkeley login, you can launch using the binder button above .
+You can click this [https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fberkeley-physics%2FPython-Tutorials&urlpath=tree%2FPython-Tutorials%2FIntroductory&branch=master](link) to launch into the datahub where the notebooks can be read and run interactively. Alternatively, if you don't have a Berkeley login, you can launch using the binder button above .
 
 # Further resources
 Include links to additional tutorials/resources
