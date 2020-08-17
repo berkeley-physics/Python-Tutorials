@@ -21,4 +21,4 @@ Click [here](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%
 - [x] Link Berkeley resources
 - [ ] Link external resources?
 - [ ] Add more exercises?
-- [ ] Test
+- [ ] __TEST!!!!__
